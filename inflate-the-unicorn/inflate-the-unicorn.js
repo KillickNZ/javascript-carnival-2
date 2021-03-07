@@ -47,15 +47,6 @@ function unicornFunc(){
   }
 
   console.log(unicornCounts)
-
-
-
-  // for(var j = 0; j < images.length; j ++){
-  //   console.log(images[j].src)
-  //   images[j].src = "images/unicorn-3.png";
-  // }
-  
-
 }
 
 function createImgSrc (unicornNum){
